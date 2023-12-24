@@ -4,6 +4,7 @@ import { Layout } from "@/app/Layout";
 import { Register, NoMatch } from "@/pages";
 
 const App: FC = () => {
+  // All routes are defined here
   return (
     <>
       <Routes>
